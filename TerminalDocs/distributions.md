@@ -109,5 +109,5 @@ To refer to paths relative to the settings directory, use the environment variab
 
 ["Portable mode"]: https://en.wikipedia.org/wiki/Portable_application
 [GitHub releases]: https://github.com/microsoft/terminal/releases
-[preinstallation kit]: /windows/msix/desktop/deploy-preinstalled-apps
-[DISM documentation on preinstallation]: /windows-hardware/manufacture/desktop/preinstall-apps-using-dism
+[preinstallation kit]: https://learn.microsoft.com/windows/msix/desktop/deploy-preinstalled-apps
+[DISM documentation on preinstallation]: https://learn.microsoft.com/windows-hardware/manufacture/desktop/preinstall-apps-using-dism?view=windows-11
